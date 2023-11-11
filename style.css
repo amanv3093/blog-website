@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    text-align: center;
+    margin-top:20px ;
+}
+.box{
+    width: 50%;
+    margin:20px auto;
+    
+    
+}
+.box-txt{
+    width: 59%;
+    margin:30px 132px ;
+    color: rgb(102, 102, 102);
+ 
+}
+.box-video{
+    width: 59%;
+    margin:30px 132px ;
+    color: rgb(102, 102, 102);
+}
+.line-box{
+    width: 98%;
+    height: 3px;
+    background-color:rgb(102, 102, 102) ;
+    margin: auto;
+    margin-bottom: 10px;
+
+}
